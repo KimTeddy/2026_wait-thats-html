@@ -1,5 +1,7 @@
 # Wait… That's HTML?!
 
+[https://kimteddy.github.io/2026_wait-thats-html/](https://kimteddy.github.io/2026_wait-thats-html/)
+
 Interactive browser experiments and simulations in single HTML files, featuring WebGPU, WebGL, and creative coding. No installation required.
 
 AI-assisted creations with the models and prompts documented for each project. More experiments will be added over time.
